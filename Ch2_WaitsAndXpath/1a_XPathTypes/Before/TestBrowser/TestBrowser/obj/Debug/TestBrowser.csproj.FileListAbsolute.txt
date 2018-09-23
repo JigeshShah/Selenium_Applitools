@@ -1,0 +1,17 @@
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\TestBrowser.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\TestBrowser.pdb
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\WebDriver.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\WebDriver.Support.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\WebDriver.xml
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\bin\Debug\WebDriver.Support.xml
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\obj\Debug\TestBrowser.csprojResolveAssemblyReference.cache
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\obj\Debug\TestBrowser.csproj.CoreCompileInputs.cache
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\obj\Debug\TestBrowser.dll
+C:\Users\sjigesh\Desktop\Selenium_Applitool_Tutorials\Ch2_WaitsAndXpath\1a_XPathTypes\Before\TestBrowser\TestBrowser\obj\Debug\TestBrowser.pdb
