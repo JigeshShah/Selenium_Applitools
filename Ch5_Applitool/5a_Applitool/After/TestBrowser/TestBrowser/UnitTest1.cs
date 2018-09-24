@@ -26,7 +26,7 @@ namespace TestBrowser
             driver.Navigate().GoToUrl("http://the-internet.herokuapp.com/");
 
 
-            eyes.ApiKey = "wFiX6GY1nTRMdGBlinXVVzbfEsNtXUUe99Y4N3uJjnds110";
+            eyes.ApiKey = "";
 
             eyes.Open(driver, "Demo_Test", "Demo_Test", new Size(800, 600));
 
